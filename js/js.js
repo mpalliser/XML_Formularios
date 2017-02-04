@@ -7,7 +7,7 @@ window.onload=function() {
 	 }
 
 	};
-	xhttp.open("GET", "xml/preguntas.xml", true);
+	xhttp.open("GET", "xml/xml.xml", true);
 	xhttp.send();
 
 	function gestionarXml(dadesXml){
