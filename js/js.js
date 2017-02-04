@@ -7,11 +7,11 @@ window.onload=function() {
 	 }
 
 	};
-	xhttp.open("GET", "xml/xml.xml", true);
+	xhttp.open("GET", "xml/preguntas.xml", true);
 	xhttp.send();
 
 	function gestionarXml(dadesXml){
 	var xmlDoc = dadesXml.responseXML;
-	document.getElementById("rellenar").innerHTML = xmlDoc.getElementById("primeraPregunta").getElementsByTagName("title")[0].childNodes[0].nodeValue;
+	document.getElementById("rellenar").innerHTML = xmlDoc.getElementById("mlag001").getElementsByTagName("title")[0].childNodes[0].nodeValue;
 	};
 }
