@@ -5,13 +5,13 @@
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="quest003">
+	<question id="quest002">
 		<type></type>
 		<title>Segunda pregunta</title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="quest002">
+	<question id="quest003">
 		<type></type>
 		<title></title>
 		<option value=""></option>
