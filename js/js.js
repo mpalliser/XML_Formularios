@@ -12,6 +12,8 @@ window.onload=function() {
 
 	function gestionarXml(dadesXml){
 	var xmlDoc = dadesXml.responseXML;
-	document.getElementById("rellenar").innerHTML = xmlDoc.getElementById("quest001").getElementsByTagName("title")[0].childNodes[0].nodeValue;
+	document.getElementById("rellenar1").innerHTML = xmlDoc.getElementById("quest001").getElementsByTagName("title")[0].childNodes[0].nodeValue;
+	document.getElementById("rellenar2").innerHTML = xmlDoc.getElementById("quest002").getElementsByTagName("title")[0].childNodes[0].nodeValue;
+
 	};
 }
