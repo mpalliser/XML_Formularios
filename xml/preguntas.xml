@@ -1,59 +1,59 @@
 <questions>
-	<question id="mlag001">
+	<question id="quest001">
 		<type></type>
 		<title>Primera pregunta...</title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag002">
+	<question id="quest003">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag003">
+	<question id="quest002">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag004">
+	<question id="quest004">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag005">
+	<question id="quest005">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag006">
+	<question id="quest006">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag007">
+	<question id="quest007">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag008">
+	<question id="quest008">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag009">
+	<question id="quest009">
 		<type></type>
 		<title></title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
-	<question id="mlag010">
+	<question id="quest010">
 		<type></type>
 		<title></title>
 		<option value=""></option>
