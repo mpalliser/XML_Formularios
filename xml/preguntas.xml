@@ -1,13 +1,13 @@
 <questions>
 	<question id="quest001">
 		<type></type>
-		<title>Primera pregunta...</title>
+		<title>Primera pregunta</title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
 	<question id="quest003">
 		<type></type>
-		<title></title>
+		<title>Segunda pregunta</title>
 		<option value=""></option>
 		<answer></answer>
 	</question>
