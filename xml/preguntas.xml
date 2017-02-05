@@ -1,9 +1,11 @@
 <questions>
 	<question id="quest001">
-		<type></type>
-		<title>Primera pregunta</title>
-		<option value=""></option>
-		<answer></answer>
+		<type>select</type>
+		<title>¿Que significado tienen las siglas CSS?</title>
+		<option>Cascading Style Sheet</option>
+		<option>Concatening Style Sheet</option>
+		<option>Coworking on Style Sheet</option>
+		<answer>0</answer>
 	</question>
 	<question id="quest002">
 		<type></type>
