@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <questions>
 	<question id="quest001">
 			<type>select</type>
@@ -53,8 +54,8 @@
 			<title>¿De que modos podemos incluir colores en el css?</title>
 			<option>A) Binario</option>
 			<option>B) Hexadecimal</option>
-			<option>C) Numbre del color<option>
-			<option>D) Mediante el codigo RGB<option>
+			<option>C) Numbre del color</option>
+			<option>D) Mediante el codigo RGB</option>
 			<answer>1</answer>
 			<answer>2</answer>
 			<answer>3</answer>
