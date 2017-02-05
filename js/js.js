@@ -17,8 +17,6 @@ function gestionarXml(dadesXml){
   for (i = 0; i < nopt; i++) { 
    opcionesSelect[i] = xmlDoc.getElementById("quest001").getElementsByTagName('option')[i].childNodes[0].nodeValue;
  }
- ponerDatosSelectHtml(pregunta1,opcionesSelect);
- respuestaSelect=parseInt(xmlDoc.getElementsByTagName("answer")[0].childNodes[0].nodeValue);
 
 };
 
