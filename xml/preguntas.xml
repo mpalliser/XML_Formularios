@@ -8,40 +8,56 @@
 		<answer>0</answer>
 	</question>
 	<question id="quest002">
-		<type></type>
-		<title>Segunda pregunta</title>
-		<option value=""></option>
-		<answer></answer>
+		<type>radio</type>
+		<title>¿Cual de los siguientes códigos HTML es correcto?</title>
+		<option>A) background-image: src='../img/fondo.png';</option>
+		<option>B) background: image-url='../img/fondo.png';</option>
+		<option>C) background-image: url('../img/fondo.png');</option>
+		<answer>2</answer>
 	</question>
 	<question id="quest003">
-		<type></type>
-		<title></title>
-		<option value=""></option>
-		<answer></answer>
+		<type>checkbox</type>
+	    	<title>¿Cómo se declara correctamente una variable en JavaScript?</title>
+	    	<option>A) nuevaVariable = true</option>
+	    	<option>B) public boolean nuevaVariable = true;</option>
+	    	<option>C) var nuevaVariable = true;</option>
+	    	<answer>2</answer>
 	</question>
 	<question id="quest004">
-		<type></type>
-		<title></title>
-		<option value=""></option>
-		<answer></answer>
+		<type>textarea</type>
+     		<title>¿Cual es el protocolo de seguridad para las paginas web?</title>
+    		<answer>HTTPS</answer>
 	</question>
 	<question id="quest005">
-		<type></type>
-		<title></title>
-		<option value=""></option>
-		<answer></answer>
+       		<type>multiple</type>
+	        <title>¿Cuales de los siguientes operadores son correctos en JavaScript?</title>
+	        <option>A) -</option>
+	        <option>B) *+</option>
+	        <option>C) ÷</option>
+	        <option>D) %</option>
+	        <option>E) ++</option>
+	        <answer>0</answer>
+	        <answer>3</answer>
+	        <answer>4</answer>
 	</question>
 	<question id="quest006">
-		<type></type>
-		<title></title>
-		<option value=""></option>
-		<answer></answer>
+		<type>radio</type>
+		<title>Si el valor de la variable "numero" es 10,¿Qué mensaje de alerta se mostrará en la pantalla?</title>
+		<option>A) "Hola"</option>
+		<option>B) "Adiós"</option>
+		<option>C) No se mostrará nada</option>
+		<answer>1</answer>
 	</question>
 	<question id="quest007">
-		<type></type>
-		<title></title>
-		<option value=""></option>
-		<answer></answer>
+		<type>multiple</type>
+		<title>¿De que modos podemos incluir colores en el css?</title>
+		<option>A) Binario</option>
+		<option>B) Hexadecimal</option>
+		<option>C) Numbre del color<option>
+		<option>D) Mediante el codigo RGB<option>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>3</answer>
 	</question>
 	<question id="quest008">
 		<type></type>
