@@ -24,8 +24,8 @@
 		<option>B) public boolean nuevaVariable = true;</option>
 		<option>C) var nuevaVariable = true;</option>
 		<answer>2</answer>
-		</question>
-		<question id="quest004">
+	</question>
+	<question id="quest004">
 		<type>textarea</type>
 		<title>¿Cual es el protocolo de seguridad para las paginas web?</title>
 		<answer>HTTPS</answer>
