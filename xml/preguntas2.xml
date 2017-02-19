@@ -25,7 +25,7 @@
 		<answer>2</answer>
 	</question>
 	<question id="quest004">
-		<type>textarea</type>
+		<type>text</type>
 		<title>¿Cual es el protocolo de seguridad para las paginas web?</title>
 		<answer>HTTPS</answer>
 	</question>
@@ -61,7 +61,7 @@
 		<answer>3</answer>
 	</question>
 	<question id="quest008">
-		<type>textarea</type>
+		<type>text</type>
 		<title>Escribe el parametro permite poner un identificador en html con el nombre "etiqueta"</title>
 		<answer>id="etiqueta"</answer>
 	</question>
