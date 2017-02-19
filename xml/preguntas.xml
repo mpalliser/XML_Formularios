@@ -26,12 +26,12 @@
 		<answer>2</answer>
 	</question>
 	<question id="quest004">
-		<type>textarea</type>
+		<type>text</type>
 		<title>¿Cual es el protocolo de seguridad para las paginas web?</title>
 		<answer>HTTPS</answer>
 	</question>
 	<question id="quest005">
-		<type>multiple</type>
+		<type>select multiple</type>
 		<title>¿Cuales de los siguientes operadores son correctos en JavaScript?</title>
 		<option>A) -</option>
 		<option>B) *+</option>
@@ -51,7 +51,7 @@
 		<answer>1</answer>
 	</question>
 	<question id="quest007">
-		<type>multiple</type>
+		<type>select multiple</type>
 		<title>¿De que modos podemos incluir colores en el css?</title>
 		<option>A) Binario</option>
 		<option>B) Hexadecimal</option>
@@ -62,7 +62,7 @@
 		<answer>3</answer>
 	</question>
 	<question id="quest008">
-		<type>textarea</type>
+		<type>text</type>
 		<title>Escribe el parametro permite poner un identificador en html con el nombre "etiqueta"</title>
 		<answer>id="etiqueta"</answer>
 	</question>
