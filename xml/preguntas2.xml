@@ -30,7 +30,7 @@
 		<answer>HTTPS</answer>
 	</question>
 	<question id="quest005">
-		<type>multiple</type>
+		<type>select multiple</type>
 		<title>¿Cuales de los siguientes operadores son correctos en JavaScript?</title>
 		<option>A) -</option>
 		<option>B) *+</option>
@@ -50,7 +50,7 @@
 		<answer>1</answer>
 	</question>
 	<question id="quest007">
-		<type>multiple</type>
+		<type>select multiple</type>
 		<title>¿De que modos podemos incluir colores en el css?</title>
 		<option>A) Binario</option>
 		<option>B) Hexadecimal</option>
