@@ -3,7 +3,7 @@
     <xs:element name="questions">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="question" minOccurs="10" maxOccurs="10">
+                <xs:element name="question" minOccurs="0" maxOccurs="10">
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="type">	
